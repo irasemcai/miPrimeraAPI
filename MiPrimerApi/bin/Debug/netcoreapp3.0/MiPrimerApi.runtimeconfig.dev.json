@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/irasema/.dotnet/store/|arch|/|tfm|",
+      "/home/irasema/.nuget/packages"
+    ]
+  }
+}
